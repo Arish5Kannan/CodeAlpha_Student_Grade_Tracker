@@ -114,7 +114,7 @@ public class Main {
             }
         }
         if (!found) {
-            System.out.println("Student with register number " + reg + " not found.");
+            System.out.println("Student with register  number " + reg + " not found.");
         }
     }
 }
